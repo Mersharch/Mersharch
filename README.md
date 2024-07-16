@@ -19,12 +19,8 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left"> 
     <a href="https://www.linkedin.com/in/mdemenya4519/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> 
-    <a href="mailto:demenyamersharch@gmail.com""><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/gmail.svg" width="32" height="32" /></a> 
+    <a href="mailto:demenyamersharch@gmail.com""><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/mail.svg" width="32" height="32" /></a> 
 </p>
- [hientran\@clientdiary.com](mailto:hientran@clientdiary.com?subject=Test)
-
-
-
    
 <p>
        &nbsp;<img align="" width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=Mersharch&count_private=true&langs_count=10&show_icons=true&locale=en&layout=compact&theme=radical&line_height=0" />
