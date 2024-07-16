@@ -33,4 +33,4 @@
 
 
 ### ReadMe inspired by  
-[![Wendey-wej]]('https://github.com/wendy-wej')
+<a href='https://github.com/wendy-wej' target='_blank' rel='noreferrer'>Wendy Wej</a>
