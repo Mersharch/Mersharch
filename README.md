@@ -9,17 +9,17 @@
 
 
 
-- 🌱 I love data and figuring out new things.
-- 🥅 Life Goal: To work as a data scientist or research scientist at a solution-driven organization.
-- 👯 Always learning new things concerning data science, data structures and algorithm and web development.
-- 😄 Let's chat about cartoons and webtoons. 
-- ⚡ Open to collaborating on data or backend related projects
+- 🌱 I love figuring out new things.
+- 🥅 Life Goal: To build my own Stark industries.
+- 👯 Always learning new things concerning software development, IoT and embedded systems.
+- 😄 Let's chat about anime and mobile gaming. 
+- ⚡ Open to collaborating on exciting projects
 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left"> 
     <a href="https://www.linkedin.com/in/mdemenya4519/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> 
-    <a href="mailto:demenyamersharch@gmail.com""><img src="https://img.icons8.com/?size=100&id=Cjuj2uISMdQ1&format=png&color=000000" width="32" height="32" /></a> 
+    <a href="mailto:demenyamersharch@gmail.com""><img src="https://img.icons8.com/?size=100&id=Cjuj2uISMdQ1&format=png&color=000000" width="35" height="35" /></a> 
 </p>
    
 <p>
@@ -31,3 +31,6 @@
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=75nh7vyfgyfy2drqag61q5zkj&cover_image=true&theme=default&show_offline=false)](https://github.com/kittinan/spotify-github-profile)
 
+
+#### ReadMe inspired by 
+[Wendey-wej]('https://github.com/wendy-wej')
