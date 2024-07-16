@@ -19,7 +19,10 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left"> 
     <a href="https://www.linkedin.com/in/mdemenya4519/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> 
+    <a href="mailto:demenyamersharch@gmail.com""><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/gmail" width="32" height="32" /></a> 
+ [hientran\@clientdiary.com](mailto:hientran@clientdiary.com?subject=Test)
 </p>
+
 
 
    
