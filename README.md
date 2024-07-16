@@ -19,12 +19,12 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left"> 
     <a href="https://www.linkedin.com/in/mdemenya4519/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> 
-    <a href="mailto:demenyamersharch@gmail.com""><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/mail.svg" width="32" height="32" /></a> 
+    <a href="mailto:demenyamersharch@gmail.com""><img src="https://img.icons8.com/?size=100&id=Cjuj2uISMdQ1&format=png&color=000000" width="32" height="32" /></a> 
 </p>
    
 <p>
        &nbsp;<img align="" width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=Mersharch&count_private=true&langs_count=10&show_icons=true&locale=en&layout=compact&theme=radical&line_height=0" />
-      &nbsp;<img align="" width="45%" src="https://github-readme-stats.vercel.app/api?username=Mersharch&show_icons=true&locale=en&show_icons=true&theme=radical" alt="wendy-wej" />  
+      &nbsp;<img align="" width="45%" src="https://github-readme-stats.vercel.app/api?username=Mersharch&show_icons=true&locale=en&show_icons=true&theme=radical" alt="Mersharch" />  
 </p>
 
 ### What I am listening to on Spotify now 🎧
