@@ -23,8 +23,9 @@
 </p>
    
 <p>
-       &nbsp;<img align="" width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=Mersharch&count_private=true&langs_count=10&show_icons=true&locale=en&layout=compact&theme=radical&line_height=0" />
-      &nbsp;<img align="" width="45%" src="https://github-readme-stats.vercel.app/api?username=Mersharch&show_icons=true&locale=en&show_icons=true&theme=radical" alt="Mersharch" />  
+       ![Mersharch's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Mersharch&theme=tokyonight&hide_border=false)
+      ![Mersharch's Stats](https://github-readme-stats.vercel.app/api?username=Mersharch&theme=tokyonight&show_icons=true&hide_border=false&count_private=true)  
+      ![Mersharch's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mersharch&theme=tokyonight&show_icons=true&hide_border=false&layout=compact)
 </p>
 
 ### What I am listening to on Spotify now 🎧
