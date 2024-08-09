@@ -23,9 +23,9 @@
 </p>
    
 <p>
-       ![Mersharch's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Mersharch&theme=tokyonight&hide_border=false)
-      ![Mersharch's Stats](https://github-readme-stats.vercel.app/api?username=Mersharch&theme=tokyonight&show_icons=true&hide_border=false&count_private=true)  
-      ![Mersharch's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mersharch&theme=tokyonight&show_icons=true&hide_border=false&layout=compact)
+ &nbsp;<img align="" width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=Mersharch&theme=tokyonight&hide_border=false" />
+      &nbsp;<img align="" width="45%" src="https://github-readme-stats.vercel.app/api?username=Mersharch&theme=tokyonight&show_icons=true&hide_border=false&count_private=true" alt="Mersharch" /> 
+      &nbsp;<img align="" width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mersharch&theme=tokyonight&show_icons=true&hide_border=false&layout=compact" alt="Mersharch" /> 
 </p>
 
 ### What I am listening to on Spotify now 🎧
