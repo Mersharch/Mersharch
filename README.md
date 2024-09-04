@@ -1,36 +1,37 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+[![](https://visitcount.itsvg.in/api?id=Mersharch&label=Profile%20Views&color=6&icon=0&pretty=true)](https://visitcount.itsvg.in)
+---
+# Hi there, I'm Mersharch 👋 
+## Software Engineer
+### 💻 Tech Stack:
+![TypeScript](https://img.shields.io/badge/typescript-black?style=flat&logo=typescript) ![JavaScript](https://img.shields.io/badge/javascript-blue?style=flat&logo=javascript) ![React Native](https://img.shields.io/badge/react_native-%23163d62?style=flat&logo=react) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=flat&logo=github&logoColor=white) ![Next JS](https://img.shields.io/badge/next-%23383b36?style=flat&logo=nextdotjs)
+ ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=flat&logo=mysql&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=flat&logo=notion&logoColor=white) ![Arduino](https://img.shields.io/badge/arduino-%230f0a08?style=flat&logo=arduino)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white) ![Axios](https://img.shields.io/badge/axios-%23000?style=flat&logo=axios) ![Express JS](https://img.shields.io/badge/express-%23296903?style=flat&logo=express)
 
-## Getting Started
 
-First, run the development server:
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+- 🌱 I love figuring out new things.
+- 🥅 Life Goal: To build my own Stark industries.
+- 👯 Always learning new things concerning software development, IoT and embedded systems.
+- 😄 Let's chat about anime and mobile gaming. 
+- ⚡ Open to collaborating on exciting projects
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+<h3 align="left">Connect with me:</h3>
+<p align="left"> 
+    <a href="https://www.linkedin.com/in/mdemenya4519/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> 
+    <a href="mailto:demenyamersharch@gmail.com""><img src="https://img.icons8.com/?size=100&id=Cjuj2uISMdQ1&format=png&color=000000" width="35" height="35" /></a> 
+</p>
+   
+<p>
+ &nbsp;<img align="" width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=Mersharch&theme=tokyonight&hide_border=false" />
+      &nbsp;<img align="" width="45%" src="https://github-readme-stats.vercel.app/api?username=Mersharch&theme=tokyonight&show_icons=true&hide_border=false&count_private=true" alt="Mersharch" /> 
+      &nbsp;<img align="" width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mersharch&theme=tokyonight&show_icons=true&hide_border=false&layout=compact" alt="Mersharch" /> 
+</p>
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+### What I am listening to on Spotify now 🎧
 
-## Learn More
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=75nh7vyfgyfy2drqag61q5zkj&cover_image=true&theme=default&show_offline=false)](https://github.com/kittinan/spotify-github-profile)
 
-To learn more about Next.js, take a look at the following resources:
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+### ReadMe inspired by  
+<a href='https://github.com/wendy-wej' target='_blank' rel='noreferrer'>Wendy Wej</a>
