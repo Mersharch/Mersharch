@@ -14,19 +14,26 @@ const project = {
         title: "Description",
         type: "string",
       },
+      
       {
-        name: "image",
-        title: "Image",
-        type: "image",
-        options: { hotspot: true },
-        fields: [
-          {
-            name: "alt",
-            title: "Alt",
-            type: "string",
-          },
-        ],
+        name: "images",
+        title: "Images",
+        type: "array",
+        of: [{
+          name: "image",
+          title: "Image",
+          type: "image",
+          options: { hotspot: true },
+          fields: [
+            {
+              name: "alt",
+              title: "Alt",
+              type: "string",
+            },
+          ],
+        },],
       },
+
       {
         name: "url",
         title: "URL",
@@ -34,7 +41,7 @@ const project = {
       },
       {
         name: "tags",
-        title: "Tag",
+        title: "Tags",
         type: "array",
         of: [{ type: "string" }],
       },
